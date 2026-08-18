@@ -4,7 +4,7 @@
 `Spinner_Viva_PPT_v2.pptx`
 
 -------
-## Dashboard Preview
+## PPT Preview
 
 ![Preview 1](Preview_1.png)
 ![Preview 2](Preview_2.png)
