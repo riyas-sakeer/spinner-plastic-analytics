@@ -8,7 +8,7 @@
 
 ## 🔗 Live Interactive Dashboard
 
-👉 **[Click here to open the Analytics Dashboard](https://YOUR-USERNAME.github.io/spinner-plastic-analytics/dashboard/Spinner_Dashboard_Pro.html)**
+👉 **[Click here to open the Analytics Dashboard](https://riyas-sakeer.github.io/spinner-plastic-analytics/dashboard/Spinner_Dashboard_Pro.html)**
 
 > 8-tab Power BI style dashboard. Opens directly in browser. Best viewed in Chrome.
 

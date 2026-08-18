@@ -1,7 +1,7 @@
 # 📊 Interactive Analytics Dashboard
 
 ## Live Link
-👉 [Open Dashboard](https://YOUR-USERNAME.github.io/spinner-plastic-analytics/dashboard/Spinner_Dashboard_Pro.html)
+👉 [Open Dashboard](https://riyas-sakeer.github.io/spinner-plastic-analytics/dashboard/Spinner_Dashboard_Pro.html)
 
 ---
 
